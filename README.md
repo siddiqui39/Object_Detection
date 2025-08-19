@@ -17,6 +17,15 @@ The main.py script loads a pre-trained YOLOv4-Tiny model to detect objects in re
 
 4.A file containing class names (classes.txt)
 ## Languages and Tools
-![Python](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python_logo.svg)
-![OpenCV](https://upload.wikimedia.org/wikipedia/commons/6/63/OpenCV_logo_with_text.svg)
-![YOLOv4-Tiny](https://raw.githubusercontent.com/kiyoshiiriemon/yolov4_darknet/main/imgs/yolov4-tiny-logo.png)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="margin-right: 10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="50"/>
+</p>
+
+
+
+
+
+
+
